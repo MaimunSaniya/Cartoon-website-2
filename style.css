@@ -1,0 +1,68 @@
+h1{
+    color:maroon;
+    text-align: center;
+}
+h2{
+    color: white;
+}
+
+ul{
+    color: white;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.first{
+    border:solid;
+    border-color:rgb(243, 105, 128);
+    background-color:rgb(243, 105, 128);
+}
+
+.second{
+    border:solid;
+    border-color:rgb(99, 182, 96);
+    background-color:rgb(99, 182, 96);
+}
+
+.second1{
+    margin-left: 1250px;
+}
+.second2{
+    margin-left: 1400px;
+}
+.second3{
+    margin-left: 800px;
+}
+
+.third{
+    border:solid;
+    border-color:rgb(112, 189, 240);
+    background-color:rgb(112, 189, 240);
+}
+
+.fourth{
+    border:solid;
+    border-color:rgb(235, 223, 64);
+    background-color:rgb(235, 223, 64);
+}
+
+.fourth1{
+    margin-left: 1250px;
+}
+.fourth2{
+    margin-left: 1400px;
+}
+.fourth3{
+    margin-left: 800px;
+}
+
+.fifth{
+    border:solid;
+    border-color:rgb(150, 115, 231);
+    background-color:rgb(150, 115, 231);
+}
+
+
+
